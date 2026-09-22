@@ -23,11 +23,11 @@ python3 -m http.server 8000
 | `script.js` | Mobile nav, sticky header, before/after sliders, scroll reveals, FAQ accordion, quote form |
 | `privacy-policy.html` | Privacy policy page |
 | `terms-and-conditions.html` | Terms and conditions page |
-| `favicon.svg` | Gold wand mark favicon |
+| `favicon.svg` | Violet wand mark favicon |
 
 ## Design
 
-- **Palette:** ink/charcoal base (`#0b0d12`) with a gold accent (`#f2b632`), alternating
+- **Palette:** deep purple ink base (`#130a20`) with a violet accent (`#8b2fd6`, from the logo), alternating
   with clean light sections for contrast and readability.
 - **Typography:** Sora for headings (tight, bold, display weights), Inter for body copy.
 - **Signature interaction:** draggable before/after comparison sliders built from the
